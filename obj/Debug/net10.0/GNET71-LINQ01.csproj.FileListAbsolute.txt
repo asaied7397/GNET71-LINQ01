@@ -12,3 +12,4 @@
 /Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/obj/Debug/net10.0/GNET71-LINQ01.pdb
 /Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/obj/Debug/net10.0/GNET71-LINQ01.genruntimeconfig.cache
 /Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/obj/Debug/net10.0/ref/GNET71-LINQ01.dll
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/obj/Debug/net10.0/GNET71-LINQ01.sourcelink.json
