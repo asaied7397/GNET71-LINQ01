@@ -1,0 +1,14 @@
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/bin/Debug/net10.0/GNET71-LINQ01
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/bin/Debug/net10.0/GNET71-LINQ01.deps.json
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/bin/Debug/net10.0/GNET71-LINQ01.runtimeconfig.json
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/bin/Debug/net10.0/GNET71-LINQ01.dll
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/bin/Debug/net10.0/GNET71-LINQ01.pdb
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/obj/Debug/net10.0/GNET71-LINQ01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/obj/Debug/net10.0/GNET71-LINQ01.AssemblyInfoInputs.cache
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/obj/Debug/net10.0/GNET71-LINQ01.AssemblyInfo.cs
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/obj/Debug/net10.0/GNET71-LINQ01.csproj.CoreCompileInputs.cache
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/obj/Debug/net10.0/GNET71-LINQ01.dll
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/obj/Debug/net10.0/refint/GNET71-LINQ01.dll
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/obj/Debug/net10.0/GNET71-LINQ01.pdb
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/obj/Debug/net10.0/GNET71-LINQ01.genruntimeconfig.cache
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/LINQ/GNET71-LINQ01/obj/Debug/net10.0/ref/GNET71-LINQ01.dll
